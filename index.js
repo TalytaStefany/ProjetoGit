@@ -8,5 +8,5 @@ console.log("Exemplo Node");
 if(soma > 10){
 	console.log("Parabens!");
 }else{
-	console.log("Parabens!");
+	console.log("Menor que 10");
 }
